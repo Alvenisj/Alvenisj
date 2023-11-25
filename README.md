@@ -2,7 +2,7 @@
 ## Hello, my name is  ALBENIS BECERRA
   I am a -Systems Engineer- with 5 years of experience in the professional area, carrying out different digital transformation projects that have resulted in successful developments. Extensive knowledge in creating web pages and web applications. Full-time experience working with technologies such as: - NodeJs(React) API development and integrations. - I constantly stay up to date with the most recent updates. I provide high-quality code that is safe and easy to maintain.
 #  &bull; **Experiences:**
-![img1](https://github.com/Alvenisj/Alvenisj/assets/58892711/e0e33078-da75-450a-96a6-36f274036c15) ![img2](https://github.com/Alvenisj/Alvenisj/assets/58892711/f6903325-5895-40bf-9226-f3816f2cd8be)![img121](https://github.com/Alvenisj/Alvenisj/assets/58892711/080c5b1c-5655-4a64-9817-d0bf5923d531)
+![img33](https://github.com/Alvenisj/Alvenisj/assets/58892711/9c7f2e37-80a2-4be2-8aca-2cd214f9169f)
 #  - **(Node Js) Developer**
 ![nodejs](https://github.com/Alvenisj/Alvenisj/assets/58892711/9c3519a9-c769-4940-8c53-22996013805b)
 #  - **(Javascript) Web Developer**
