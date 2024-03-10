@@ -1,4 +1,4 @@
-![logoDefinitivo](https://github.com/Alvenisj/Alvenisj/assets/58892711/fd4708a5-f03d-41a9-80bc-342dc138f8ea)
+![logo-finalllllll](https://github.com/Alvenisj/Alvenisj/assets/58892711/d7ab414a-d4c8-47bc-aa3d-d00e6f9df6ac)
 ## Hello, my name is  ALVENIS BECERRA
   I am a -Systems Engineer- Full-time experience working with technologies such as: - NodeJs(React) API development and integrations. - I constantly stay up to date with the most recent updates. I provide high-quality code that is safe and easy to maintain.
 #  &bull; **Experiences:**
