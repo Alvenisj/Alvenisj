@@ -5,7 +5,7 @@
 ![img33](https://github.com/Alvenisj/Alvenisj/assets/58892711/9c7f2e37-80a2-4be2-8aca-2cd214f9169f)
 
 
-#  - **Información Personal**
+#  - **Information**
 - **Correo Electrónico:** Alvenisj@gmail.com
 - **LinkedIn:** [My Perfil](https://www.linkedin.com/in/alvenis-becerra-ingenieria-sistemas)
 - **GitHub:** [My Perfil](https://github.com/Alvenisj)
