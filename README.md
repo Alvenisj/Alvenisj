@@ -1,4 +1,4 @@
-![logo-finalllllll](https://github.com/Alvenisj/Alvenisj/assets/58892711/d7ab414a-d4c8-47bc-aa3d-d00e6f9df6ac=1024x)
+[![perfil](https://github.com/Alvenisj/alvenisBecerraPortafolio/blob/main/images%2Fperfil.jpg)](https://github.com/Alvenisj/alvenisBecerraPortafolio/blob/main/images%2Fperfil.jpg)
 ### **👋 Hello 👋 My name is  ALVENIS BECERRA**
    I am a -Systems Engineer- Full-time experience working with technologies such as: 
   * Developed and maintained backend services using Node.js and Express.js.
