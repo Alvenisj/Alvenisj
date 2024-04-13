@@ -1,11 +1,10 @@
-[![perfil](https://github.com/Alvenisj/alvenisBecerraPortafolio/blob/main/images%2Fperfil.jpg)](https://github.com/Alvenisj/alvenisBecerraPortafolio/blob/main/images%2Fperfil.jpg)
-### **👋 Hello 👋 My name is  ALVENIS BECERRA**
-   I am a -Systems Engineer- Full-time experience working with technologies such as: 
-  * Developed and maintained backend services using Node.js and Express.js.
-  * Designed and implemented RESTful APIs to support frontend applications.
-  * Integrated MongoDB and SQL databases to store and retrieve data efficiently.
-  * Collaborated with frontend developers to create responsive and interactive user interfaces using React.js.
-  * Implemented automated testing and continuous integration to ensure code quality and reliability. <br/>
+[![perfil](https://github.com/Alvenisj/alvenisBecerraPortafolio/blob/main/images%2Fbanner-alvenis.png)](https://github.com/Alvenisj/alvenisBecerraPortafolio/blob/main/images%2Fbanner-alvenis.png)
+### **👋 Hola 👋 Mi nombre es  ALVENIS BECERRA**
+Ingeniero de Sistemas Full Stack con una sólida experiencia en el desarrollo y mantenimiento de servicios backend utilizando Node.js y Express.js. Me especializo en el diseño e implementación de API RESTful para respaldar aplicaciones frontend, priorizando la eficiencia y la escalabilidad.
+
+Mi habilidad para integrar bases de datos MongoDB y SQL me ha permitido almacenar y recuperar datos de manera eficiente, garantizando un rendimiento óptimo del sistema. He colaborado estrechamente con desarrolladores frontend para crear interfaces de usuario interactivas y responsivas utilizando React.js, asegurando una experiencia de usuario excepcional.
+
+Como defensor de las mejores prácticas de desarrollo, he implementado pruebas automatizadas e integración continua para garantizar la calidad y confiabilidad del código en todos los proyectos en los que he participado. Mi objetivo es seguir aprendiendo y creciendo en el mundo de la ingeniería de software, entregando soluciones de alta calidad que impulsen el éxito del negocio. <br/>
   
 #  &bull; **Technologies:**
 
