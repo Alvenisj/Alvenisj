@@ -34,7 +34,7 @@ Como defensor de las mejores prácticas de desarrollo, he implementado pruebas a
 - **Email:** Alvenisj@gmail.com --> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:Alvenisj@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alvenis-becerra-ingenieria-sistemas)
 - **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/Alvenisj)
-- **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)]([https://wa.me/573232914082](https://wa.me/573232914082?text=¡HOLA!%20Alvenis%20Becerra,%20necesito%20información))
+- **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/573232914082?text=¡HOLA!%20Alvenis%20Becerra,%20necesito%20información)
 
 ## Menú de proyectos
 
