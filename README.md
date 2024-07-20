@@ -24,6 +24,8 @@ Como defensor de las mejores prácticas de desarrollo, he implementado pruebas a
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=101010)](https://www.linux.org/)
 [![Apple](https://img.shields.io/badge/Apple-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)](https://www.apple.com/)
 [![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia_Artificial-FF5733?style=for-the-badge&logo=ai&logoColor=white&labelColor=101010)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![Soporte Técnico](https://img.shields.io/badge/Soporte%20Técnico-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)](https://www.microsoft.com/es-es/support)
+[![Soporte Técnico TI](https://img.shields.io/badge/Soporte%20Técnico%20TI-FF6F00?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)](https://www.linux.org/pages/download/)
 
 # &bull; **Experiencias:**
 
